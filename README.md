@@ -5,9 +5,9 @@
 
 ## 프로그램 바로 열기
 
-- [프로그램 선택 화면](https://zzsnorlaxzz.github.io/construction/)
-- [프로그램 1 · 선분과 각 작도](https://zzsnorlaxzz.github.io/construction/program1/)
-- [프로그램 2 · 삼각형 작도](https://zzsnorlaxzz.github.io/construction/program2/)
+- [프로그램 선택 화면](https://zzsnorlaxzz.github.io/math-construction-classroom/)
+- [프로그램 1 · 선분과 각 작도](https://zzsnorlaxzz.github.io/math-construction-classroom/program1/)
+- [프로그램 2 · 삼각형 작도](https://zzsnorlaxzz.github.io/math-construction-classroom/program2/)
 
 ## 배포할 파일
 
@@ -56,16 +56,16 @@ node tmp/test-programs.cjs
 
 이 명령은 제작용 `tmp` 파일이 있는 작업 폴더에서 사용합니다. GitHub Pages에 업로드할 때는 `docs` 폴더만으로 실행됩니다.
 
-배포용 압축 파일은 `output/github-pages/triangle-construction-pages.zip`에 생성됩니다. 압축을 풀면 `docs` 폴더와 이 안내 파일이 나옵니다.
+배포용 압축 파일은 `output/github-pages/triangle-math-construction-classroom-pages.zip`에 생성됩니다. 압축을 풀면 `docs` 폴더와 이 안내 파일이 나옵니다.
 
 
 ## 관련 프로젝트와 역할
 
 | 저장소 | 역할 |
 | --- | --- |
-| **이 저장소 (`construction`)** | 선분·각·삼각형 작도를 배우는 수학 작도 교실 |
-| [construction2](https://github.com/zzsnorlaxzz/construction2) | 자연어 작도와 교과서 과제를 다루는 AI 작도 실험실 |
-| [calculator](https://github.com/zzsnorlaxzz/calculator) | 수업용 기하 작도 시뮬레이터 |
+| **이 저장소 (`math-construction-classroom`)** | 선분·각·삼각형 작도를 배우는 수학 작도 교실 |
+| [ai-construction-lab](https://github.com/zzsnorlaxzz/ai-construction-lab) | 자연어 작도와 교과서 과제를 다루는 AI 작도 실험실 |
+| [geometry-construction-simulator](https://github.com/zzsnorlaxzz/geometry-construction-simulator) | 수업용 기하 작도 시뮬레이터 |
 | [rotation-lab](https://github.com/zzsnorlaxzz/rotation-lab) | 회전체 생성과 단면을 탐구하는 수학 실험실 |
 
 각 프로그램은 용도가 달라 별도 저장소에서 관리합니다.
